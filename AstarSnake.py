@@ -280,9 +280,8 @@ class VisualSnake:
         return self.snake_length
 
 
-
 def a_star(start, goal, obstacles):
-    """Perform A* pathfinding to find the shortest path to the goal."""
+    """Perform A* pathfinding with forward checking to improve AI decision-making."""
     open_set = []
     heapq.heappush(open_set, (0, start))
     came_from = {}
@@ -296,8 +295,8 @@ def a_star(start, goal, obstacles):
 
         neighbors = get_neighbors(current)
         for neighbor in neighbors:
-            if neighbor in obstacles:
-                continue
+            if neighbor in obstacles or not is_future_safe(neighbor, obstacles):
+                continue  # Avoid unsafe moves
 
             tentative_g_score = g_score[current] + 1
 
@@ -310,6 +309,35 @@ def a_star(start, goal, obstacles):
 
     return []  # No path found
 
+
+def is_future_safe(pos, obstacles):
+    """
+    Performs a flood-fill check to ensure that moving to `pos` does not result in
+    getting the snake trapped in an enclosed space.
+    """
+    x, y = pos
+    visited = set()
+    queue = [pos]
+    free_space = 0
+
+    while queue:
+        px, py = queue.pop(0)
+        if (px, py) in visited or (px, py) in obstacles:
+            continue
+
+        visited.add((px, py))
+        free_space += 1
+
+        # Stop checking if enough free space is available
+        if free_space > 5:
+            return True
+
+        for nx, ny in get_neighbors((px, py)):
+            if (nx, ny) not in visited and (nx, ny) not in obstacles:
+                queue.append((nx, ny))
+
+    return False  # Not enough free space, likely a dead-end
+
 def heuristic(a, b):
     return abs(a[0] - b[0]) + abs(a[1] - b[1])
 
@@ -321,6 +349,7 @@ def reconstruct_path(came_from, current):
     path.reverse()
     return path
 
+
 def get_neighbors(position):
     x, y = position
     neighbors = [
@@ -331,6 +360,7 @@ def get_neighbors(position):
     ]
     return [(nx, ny) for nx, ny in neighbors if 0 <= nx < VS.game_width // VS.snake_size and 0 <= ny < VS.game_height // VS.snake_size]
 
+
 VS = VisualSnake()
 ret = VS.run_game()
 while type(ret) is str and ret == "restart":
@@ -339,4 +369,3 @@ while type(ret) is str and ret == "restart":
     ret = VS.run_game()
 
 pygame.quit()
-
