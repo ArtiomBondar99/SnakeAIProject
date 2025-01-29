@@ -68,7 +68,7 @@ class Bomb:
             x = random.randint(0,(GAME_WIDTH // SPACE_SIZE)-1) * SPACE_SIZE
             y = random.randint(0,(GAME_HEIGHT // SPACE_SIZE)-1) * SPACE_SIZE
             #if [x, y] != food.coordonates and all(bomb.coordinates != [x, y] for bomb in bombs) and [x, y] not in snake_coordinates:
-            if [x, y] != food.coordinates and all(bomb.coordinates != [x, y] for bomb in bombs) and all(sCoord != [x, y] for sCoord in snake_coordinates):
+            if [x, y] != food.coordonates and all(bomb.coordinates != [x, y] for bomb in bombs) and all(sCoord != [x, y] for sCoord in snake_coordinates):
             #if all(fo.coordinates != [x, y] for fo in food) and all(bomb.coordinates != [x, y] for bomb in bombs) and all(sCoord != [x, y] for sCoord in snake_coordinates):
                 break
 
@@ -97,7 +97,7 @@ def NextTurn(snake,food,bombs):
     snake.squares.insert(0,head_square)
 
 
-    if x == food.coordinates[0] and y == food.coordinates[1]:
+    if x == food.coordonates[0] and y == food.coordonates[1]:
         global score
         score += 1
         label.config(text="Score:{}".format(score))
