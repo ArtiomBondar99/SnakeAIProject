@@ -1,15 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1643e2fa-fdf3-4132-be69-b6424b9222d5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Snake.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/10.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/10.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/100.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/100.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/1000.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/1000.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/10000.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/10000.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/110.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/110.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/120.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/120.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/130.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/130.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/140.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/140.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/150.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/150.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/1500.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/1500.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/160.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/160.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/170.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/170.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/180.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/180.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/190.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/190.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/20.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/20.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/200.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/200.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/2000.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/2000.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/210.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/210.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/220.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/220.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/230.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/230.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/240.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/240.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/250.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/250.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/2500.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/2500.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/260.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/260.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/270.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/270.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/280.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/280.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/290.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/290.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/30.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/30.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/300.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/300.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/3000.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/3000.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/310.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/310.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/320.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/320.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/330.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/330.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/340.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/340.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/350.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/350.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/3500.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/3500.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/360.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/360.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/370.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/370.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/380.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/380.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/390.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/390.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/40.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/40.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/400.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/400.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/4000.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/4000.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/410.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/410.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/420.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/420.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/430.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/430.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/440.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/440.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/450.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/450.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/4500.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/4500.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/460.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/460.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/470.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/470.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/480.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/480.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/490.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/490.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/50.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/50.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/5000.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/5000.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/5500.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/5500.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/60.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/60.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/600.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/600.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/6000.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/6000.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/6500.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/6500.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/70.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/70.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/7000.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/7000.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/7500.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/7500.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/80.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/80.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/800.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/800.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/8000.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/8000.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/8500.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/8500.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/90.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/90.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/9000.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/9000.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickle/9500.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/pickle/9500.pickle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,9 +85,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2sIa8IBFHZpxkeAKcuE3snEc1Na" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -30,11 +96,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.AstarSnake.executor": "Run",
+    "Python.SnakeTrain.executor": "Run",
     "Python.snake_visual.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/Artiom/PycharmProjects/SnakeIAProjectNEW/Snake",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -55,6 +126,8 @@
       <option name="presentableId" value="Default" />
       <updated>1738145382631</updated>
       <workItem from="1738145385016" duration="198000" />
+      <workItem from="1738146296706" duration="21000" />
+      <workItem from="1738146389368" duration="2959000" />
     </task>
     <servers />
   </component>
@@ -64,5 +137,6 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Snake$snake_visual.coverage" NAME="snake_visual Coverage Results" MODIFIED="1738145521377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Snake$AstarSnake.coverage" NAME="AstarSnake Coverage Results" MODIFIED="1738145482136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AstarSnake_py$SnakeTrain.coverage" NAME="SnakeTrain Coverage Results" MODIFIED="1738148909894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
